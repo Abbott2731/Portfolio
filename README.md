@@ -22,15 +22,13 @@
 - Programming & Tech: GitHub, Python (data visualization, automation), AI prototyping.  
 - Design & Branding: Canva, Adobe Express, custom thumbnails, logo creation.  
 - Business & Strategy: Project management, sponsorship planning, entrepreneurial branding.  
-- Music & Creativity: Deep House/Amapiano curation, YouTube content creation, piano learning.  
-- Finance: FX trading (AUD/USD, Gold correlation), backtesting, journaling.  
+- Music & Creativity: Deep House/Amapiano   curation, YouTube content creation, piano learning.  
 
 ---
 
 📂 Featured Projects
 - Abbott Solution (Pty) Ltd → Corporate branding, logo design, and digital identity projects.  
-- Xclusive_Musiq → Rare Amapiano & Deep House playlists with original thumbnails.  
-- FX Trading Journal → Tracking AUD/USD and Gold correlations with structured backtesting.  
+- Xclusive_Musiq → Rare Amapiano & Deep House playlists with original thumbnails.   
 - AI Market Assistant Prototype → Research and signal generation for financial markets.  
 
 ---
@@ -43,8 +41,8 @@ I believe in combining creativity, technology, and discipline to build solutions
 📫 Connect With Me
 - GitHub: Abbott 2731
 - LinkedIn: sam-mtongana
-- YouTube: [Xclusive_Musiq Channel Link]  
+- YouTube: Xclusive_Musiq   
 - Email: sammtongana@gmail.com  
-_ Cell:0766570772
+- Cell:0766570772
 
 
